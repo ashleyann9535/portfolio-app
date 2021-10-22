@@ -11,7 +11,7 @@ body{
   font-family: var(--default-font);
 }
 
-h1, h2, h3, h4{
+h1, h2, h3, h4, h5, h6{
   font-family: var(--heading-font);
   color: #000000;
 }
@@ -24,6 +24,7 @@ h1 {
 
 p {
   font-weight: normal;
+  color: #000000;
 }
 
 .top-section {
@@ -51,4 +52,17 @@ p {
   font-size: 18px;
   line-height: 27px;
   padding: 12px 30px;
+}
+
+.programming-languages{
+  margin: 30px;
+}
+
+.programming-languages h2{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.programming-languages i{
+  font-size: 36px;
 }
