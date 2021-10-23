@@ -54,6 +54,10 @@ p {
   padding: 12px 30px;
 }
 
+.featured-projects{
+  margin: 25px auto;
+}
+
 .programming-languages{
   margin: 30px;
 }
