@@ -50,6 +50,11 @@ p {
   margin: 0;
 }
 
+.top-section img{
+  border-radius: 50%;
+  width: 500px;
+}
+
 .btn-branding {
   background: var(--button-color);
   border-radius: 4px;
