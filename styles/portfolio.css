@@ -50,11 +50,6 @@ p {
   margin: 0;
 }
 
-.top-section img{
-  border-radius: 50%;
-  width: 500px;
-}
-
 .btn-branding {
   background: var(--button-color);
   border-radius: 4px;
@@ -79,6 +74,21 @@ p {
 
 .programming-languages i {
   font-size: 36px;
+}
+
+.about-top-section{
+  background-color: var(--light-background);
+  text-align: center;
+  padding: 100px 0;
+}
+
+.about-top-section img{
+  border-radius: 50%;
+  width: 500px;
+}
+
+.certificates{
+  margin: 100px 0;
 }
 
 @media (max-width: 900px) {
