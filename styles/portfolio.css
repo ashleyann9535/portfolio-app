@@ -76,7 +76,7 @@ p {
   font-size: 36px;
 }
 
-.about-top-section{
+.about-top-section, .contact-top-section{
   background-color: var(--light-background);
   text-align: center;
   padding: 100px 0;
