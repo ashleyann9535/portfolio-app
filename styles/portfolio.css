@@ -72,11 +72,11 @@ p {
   margin-top: 20px;
 }
 
-.programming-languages i {
+.programming-languages, .contact-info i {
   font-size: 36px;
 }
 
-.about-top-section, .contact-top-section{
+.about-top-section, .contact-top-section, .projects-top-section{
   background-color: var(--light-background);
   text-align: center;
   padding: 100px 0;
@@ -91,8 +91,9 @@ p {
   margin: 100px 0;
 }
 
-.contact-info i {
-  font-size: 36px;
+.projects-top-section i {
+  font-size: 90px;
+  padding-top: 50px;
 }
 
 @media (max-width: 900px) {
