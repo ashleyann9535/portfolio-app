@@ -95,6 +95,12 @@ p {
   font-size: 90px;
 }
 
+.app-button{
+  background: var(--button-color);
+  border-radius: 4px;
+  color: white;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 36px;
