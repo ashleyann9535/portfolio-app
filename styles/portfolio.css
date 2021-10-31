@@ -63,11 +63,11 @@ p {
   margin: 25px auto;
 }
 
-.programming-languages {
+.programming-languages, .contact-info {
   margin: 40px;
 }
 
-.programming-languages h2 {
+.programming-languages, .contact-info h2 {
   text-align: center;
   margin-top: 20px;
 }
@@ -89,6 +89,10 @@ p {
 
 .certificates{
   margin: 100px 0;
+}
+
+.contact-info i {
+  font-size: 36px;
 }
 
 @media (max-width: 900px) {
