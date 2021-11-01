@@ -101,6 +101,33 @@ p {
   color: white;
 }
 
+ footer .footer-email-link{
+  text-decoration: none;
+  color: #000;
+  transition: all 100ms ease-in-out;
+}
+
+footer .footer-email-link:hover{
+  color: var(--button-color);
+}
+
+
+footer .footer-social-links a {
+  text-decoration: none;
+  color: var(--button-color);
+  background-color: var(--light-background);
+  margin: 0 20px;
+  padding: 10px 14px;
+  font-size: 18px;
+  border-radius: 50%;
+  transition: all 100ms ease-in-out;
+}
+
+footer .footer-social-links a:hover {
+  color: white;
+  background-color: var(--button-color);
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 36px;
