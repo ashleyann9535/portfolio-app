@@ -73,7 +73,7 @@ p {
 }
 
 .programming-languages, .contact-info i {
-  font-size: 36px;
+  font-size: 30px;
 }
 
 .about-top-section, .contact-top-section, .projects-top-section{
@@ -150,4 +150,23 @@ footer .footer-social-links a:hover {
     padding: 7px;
     font-size: 10px;
   }
+
+  .programming-languages p {
+    margin: 0;
+  }
+}
+@media (max-width: 576px) {
+  .project-img{
+    display: none;
+  }
+
+  .projects h3, p{
+    text-align: center;
+  }
+
+  .app-button{
+    display: flex;
+    margin: auto;
+  }
+
 }
