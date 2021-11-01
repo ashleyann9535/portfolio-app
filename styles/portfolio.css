@@ -34,7 +34,7 @@ p {
 .top-section {
   background-color: var(--light-background);
   text-align: center;
-  padding: 160px 0;
+  padding: 130px 0;
 }
 
 .top-section h3 {
@@ -79,7 +79,7 @@ p {
 .about-top-section, .contact-top-section, .projects-top-section{
   background-color: var(--light-background);
   text-align: center;
-  padding: 100px 0;
+  padding: 75px 0;
 }
 
 .about-top-section img{
