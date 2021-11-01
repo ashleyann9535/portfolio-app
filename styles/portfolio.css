@@ -91,6 +91,10 @@ p {
   margin: 100px 0;
 }
 
+.projects-top-section img{
+  width: 80%;
+}
+
 .projects-top-section i {
   font-size: 90px;
 }
