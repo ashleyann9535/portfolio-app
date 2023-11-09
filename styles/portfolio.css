@@ -23,7 +23,7 @@ h6 {
 
 h1 {
   font-weight: bold;
-  font-size: 85px;
+  font-size: 500%;
 }
 
 p {
@@ -63,6 +63,10 @@ p {
   margin: 25px auto;
 }
 
+.card img {
+  height: 190px;
+}
+
 .programming-languages, .contact-info {
   margin: 40px;
 }
@@ -84,7 +88,7 @@ p {
 
 .about-top-section img{
   border-radius: 50%;
-  width: 350px;
+  width: 70%;
 }
 
 .certificates{
@@ -92,11 +96,11 @@ p {
 }
 
 .projects-top-section img{
-  width: 80%;
+  width: 65%;
 }
 
 .projects-top-section i {
-  font-size: 90px;
+  font-size: 80px;
 }
 
 .app-button{
